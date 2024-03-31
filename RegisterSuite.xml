@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="RegisterSuite" verbose="1">
+    <test name="RegisterTest">
+        <classes>
+            <class name="RegisterPageTest"/>
+        </classes>
+    </test>
+</suite>
